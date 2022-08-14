@@ -1,1 +1,1 @@
-# type_script_firts_project
+# type_script_projects
